@@ -1,0 +1,18 @@
+python pips----
+                  pip install package_name
+               # Install a specific package
+                  pip install requests
+                  pip install numpy
+                  pip install pandas
+
+                # Install a specific version
+                   pip install django==4.2.0
+
+                 # Install from requirements.txt file
+                    pip install -r requirements.txt
+
+                 # Install multiple packages at once
+                    pip install requests numpy pandas matplotlib
+project relected
+pip install pandas numpy websocket-client python-binance talib
+pip install websocket-client python-binance pandas numpy
