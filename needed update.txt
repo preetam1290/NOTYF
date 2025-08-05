@@ -1,7 +1,0 @@
-update need 
- Advanced Optimizations:
-
-Add ATR-based dynamic tolerance - This will adjust based on market volatility
-Implement session-aware parameters - Different settings for Asian/European/US sessions
-Add trend confirmation - Only alert when price action aligns with overall trend
-Implement alert scoring - Rank alerts by confluence strength
